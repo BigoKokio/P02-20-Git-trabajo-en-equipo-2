@@ -34,8 +34,10 @@ public class Fichero_1 {
         } else {
             System.out.println("Los números no son positivos");
         }
-        // Comentario_1
-        // Comentario_2
+        /*
+         Comentario 1
+         Comentario 2
+        */
     }
 }
 
